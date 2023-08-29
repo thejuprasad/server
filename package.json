@@ -5,6 +5,9 @@
   "author": "Theju",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
 
   "scripts": {
     "start":"nodemon index.js"
